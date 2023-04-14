@@ -16,3 +16,5 @@ After installation/everytime you login in your vps just type the following comma
 sudo su
 cd
 privoxy
+
+Autosscript by Alice Schuberg (aka Hiratechi)
