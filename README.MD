@@ -17,4 +17,4 @@ sudo su
 cd
 privoxy
 
-Autosscript by Alice Schuberg (aka Hiratechi)
+Autoscript by Alice Schuberg (aka Hiratechi)
