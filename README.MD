@@ -12,9 +12,9 @@ Features:
 <b>bash -c "$(wget https://git.io/Jeog3 -qO-)"</b>
 
 For Cloudsigma TESTED with DEB9 & DEB10
-After installation/everytime you login in your vps just type the following commands to show menu
-sudo su
-cd
-privoxy
+After installation/everytime you login in your vps just type the following commands to show menu<br>
+sudo su<br>
+cd<br>
+privoxy<br>
 
 Autoscript by Alice Schuberg (aka Hiratechi)
